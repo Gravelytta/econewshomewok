@@ -57,7 +57,7 @@ article img {
 }
 
 article:nth-child(even) {
-    background: rgb(157, 196, 148);
+    background: rgb(170, 185, 167);
     }
     
     .new::before {
@@ -65,7 +65,6 @@ article:nth-child(even) {
         padding-right: 7px;
         color: red; 
        }
-    
 
 footer {
     padding-top: 20px;
